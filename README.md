@@ -6,6 +6,7 @@ Sistema de geolocalización en tiempo real. Producto autónomo de VGM Sistemas.
 - `vgm-go-backend` — Backend Kotlin / Spring Boot
 - `vgm-go-web` — Frontend React / TypeScript
 - `vgm-core-docs` — Documentación de VGM Core ERP
+- `vgm-go-docs` — https://github.com/traversocarlos/vgm-go-docs
 
 ---
 
