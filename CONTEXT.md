@@ -4,7 +4,7 @@
 > Leer completo antes de hacer cualquier modificación.
 > Actualizar cada vez que se tome una decisión importante.
 
-**Última actualización:** 2026-03-14
+**Última actualización:** 2026-03-18
 
 ---
 
@@ -223,7 +223,7 @@ Ver detalle en `05-integraciones/01-fuentes-datos.md`
 
 | Repositorio | Contenido |
 |---|---|
-| `vgm-go-docs` | Esta documentación |
+| `vgm-core-geo-docs` | Esta documentación |
 | `vgm-core-geo-backend` | Backend Kotlin / Spring Boot (a crear) |
 | `vgm-core-geo-web` | Frontend React / TypeScript (a crear) |
 | `vgm-core-docs` | Documentación VGM Core — referencia arquitectónica |

@@ -82,6 +82,6 @@ Copiar y adaptar el código de Mauricio:
 
 | Repositorio | Contenido |
 |---|---|
-| `vgm-go-docs` | Esta documentación |
+| `vgm-core-geo-docs` | Esta documentación |
 | `vgm-core-geo-backend` | Backend Kotlin / Spring Boot |
 | `vgm-core-geo-web` | Frontend React / TypeScript |
